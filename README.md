@@ -11,4 +11,4 @@ Check out my best project so far [Superlitium](https://github.com/Litium-org/Sup
 
 ![StrawberryChocolate's GitHub stats](https://github-readme-stats.vercel.app/api?username=doge2dev&show_icons=true&theme=synthwave)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doge2dev&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doge2dev&theme=synthwave)](https://github.com/doge2dev/github-readme-stats)
