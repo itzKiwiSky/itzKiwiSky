@@ -2,7 +2,7 @@
 
 I'm StrawberryChocolate
 
-I'm a gamedev student, I am 18 years old, I've developed 8 games at total, some part made on Clickteam Fusion 2.5+ and this year I've start developing with Lua and Haxe.
+I'm a gamedev student, I am 18 years old, I've developed 8 games at total, some part made on Clickteam Fusion 2.5+ and in 2022 I've start developing with Lua using LOVE2D and Haxe.
 Check out my best project so far [Superlitium](https://github.com/Litium-org/SuperLitium)
 
 - 🔭 I’m currently working on "Secret engine XD"
