@@ -9,7 +9,7 @@ Check out my best project so far [Superlitium](https://github.com/Litium-org/Sup
 - 🌱 I’m currently learning Haxe
 - 😄 Pronouns: He/She
 
- Pfp by @[Xulico](https://www.instagram.com/xulico.pixel) `Go give her some love <3`
+ Pfp by @[Xulico](https://www.instagram.com/xulico.pixel) `Go give him some love <3`
 
 ![StrawberryChocolate's GitHub stats](https://github-readme-stats.vercel.app/api?username=doge2dev&show_icons=true&theme=synthwave)
 
