@@ -13,6 +13,6 @@ My friend @[Xulico](https://www.instagram.com/xulico.pixel) `Go give him some lo
 
 [![gjico](https://s.gjcdn.net/assets/e88e2b55.png)](https://gamejolt.com/@ItzKiwiSky)
 
-![StrawberryChocolate's GitHub stats](https://github-readme-stats.vercel.app/api?username=doge2dev&show_icons=true&theme=synthwave)
+![StrawberryChocolate's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzkiwisky&show_icons=true&theme=synthwave)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doge2dev&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzkiwisky&theme=synthwave)
