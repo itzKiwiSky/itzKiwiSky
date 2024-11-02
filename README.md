@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="assets/banner.png" style="border-radius:10px;">
 
 I'm yKiwiSky
 
