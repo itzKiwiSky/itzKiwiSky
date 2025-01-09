@@ -2,12 +2,14 @@
 
 Heyo! Sou KiwiSky
 
-I'm a gamedev student, I am 19 years old, I've developed 8 games at total, some part made on Clickteam Fusion 2.5+ and in 2022 I started developing with Lua using Löve2D and Haxe.
-Sou estudante de Desenvolvimento de jogos, tenho 19 anos
+Sou estudante de Desenvolvimento de jogos, tenho 19 anos, moro no Brasil.
+Faço jogos a 8 anos, usei a Clickteam Fusion grande parte da minha carreira e em 2022 migrei para Lua e LÖVE
+e por diversão comecei a estudar Haxe e Haxeflixel. *pra modificar o fnf*
 
-- ⚙️ I’m currently working on "⬜🔺"
-- 💡 I’m currently learning SQL and database stuff
-- ❤️ Pronouns: He/She
+- ⚙️ Estou trabalhando em: "🐻☀️"
+- 💡 Iestudando SQL e databases
+- ❤️ Pronomes: Ele/Ela
+- 🌍 Idiomas que falo: Inglês e Português
 ---
 
 ![StrawberryChocolate's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzkiwisky&show_icons=true&theme=synthwave)
@@ -21,6 +23,7 @@ Sou estudante de Desenvolvimento de jogos, tenho 19 anos
 <br>
 <a href="https://kiwisugar.itch.io/"><img src="assets/itchiologo.png" style="width:20%;"></a>
 <br><br>
+![alt text](assets/discord.png)
 
 ## Tecnologias que eu uso :3
 <br>
