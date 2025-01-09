@@ -1,6 +1,6 @@
 <img src="assets/banner.png" style="border-radius:10px;">
 
-Heyo! Sou KiwiSky
+## Heyo! Sou KiwiSky
 
 Sou estudante de Desenvolvimento de jogos, tenho 19 anos, moro no Brasil.
 Faço jogos a 8 anos, usei a Clickteam Fusion grande parte da minha carreira e em 2022 migrei para Lua e LÖVE
