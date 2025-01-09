@@ -23,7 +23,7 @@ e por diversão comecei a estudar Haxe e Haxeflixel. *pra modificar o fnf*
 <br>
 <a href="https://kiwisugar.itch.io/"><img src="assets/itchiologo.png" style="width:20%;"></a>
 <br><br>
-![alt text](assets/discord.png)
+<img src="assets/discord.png" style="width:70%;">
 
 ## Tecnologias que eu uso :3
 <br>
