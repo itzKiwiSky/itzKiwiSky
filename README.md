@@ -1,8 +1,9 @@
 <img src="assets/banner.png" style="border-radius:10px;">
 
-I'm yKiwiSky
+Heyo! Sou KiwiSky
 
 I'm a gamedev student, I am 19 years old, I've developed 8 games at total, some part made on Clickteam Fusion 2.5+ and in 2022 I started developing with Lua using Löve2D and Haxe.
+Sou estudante de Desenvolvimento de jogos, tenho 19 anos
 
 - ⚙️ I’m currently working on "⬜🔺"
 - 💡 I’m currently learning SQL and database stuff
@@ -13,11 +14,13 @@ I'm a gamedev student, I am 19 years old, I've developed 8 games at total, some 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzkiwisky&theme=synthwave)
 
-## Socials
+## Redes sociais
 
-[![gjico](https://s.gjcdn.net/assets/e88e2b55.png)](https://gamejolt.com/@ItzKiwiSky)
 
-[![alt text](assets/itchiologo.png)](https://kiwisugar.itch.io/)
+<a href="https://gamejolt.com/@ItzKiwiSky"><img src="https://s.gjcdn.net/assets/e88e2b55.png" style="width:30%;"></a><br>
+<br>
+<a href="https://kiwisugar.itch.io/"><img src="assets/itchiologo.png" style="width:20%;"></a>
+<br><br>
 
 ## Tecnologias que eu uso :3
 <br>
