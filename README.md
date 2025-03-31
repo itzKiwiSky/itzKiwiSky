@@ -2,7 +2,7 @@
 
 ## Heyo! Sou KiwiSky
 
-Sou estudante de Desenvolvimento de jogos, tenho 10 anos, moro no Brasil.
+Sou estudante de Desenvolvimento de jogos, tenho 20 anos, moro no Brasil.
 Faço jogos a 8 anos, usei a Clickteam Fusion grande parte da minha carreira e em 2022 migrei para Lua e LÖVE
 e por diversão comecei a estudar Haxe e Haxeflixel. *pra modificar o fnf*
 Atualmente estou aprendendo novos frameworks e Engines de gamedev. Unity e Kaplay.js são as engines que estou aprendendo no momento.
