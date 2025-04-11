@@ -13,9 +13,9 @@ Atualmente estou aprendendo novos frameworks e Engines de gamedev. Unity e Kapla
 - 🌍 Idiomas que falo: Inglês e Português
 ---
 
-![StrawberryChocolate's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzkiwisky&show_icons=true&theme=synthwave)
+![StrawberryChocolate's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzkiwisky&show_icons=true&theme=nightowl)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzkiwisky&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzkiwisky&theme=nightowl)
 
 ## Redes sociais
 
