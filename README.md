@@ -7,7 +7,7 @@ Faço jogos a 8 anos, usei a Clickteam Fusion grande parte da minha carreira e e
 e por diversão comecei a estudar Haxe e Haxeflixel. *pra modificar o fnf*
 Atualmente estou aprendendo novos frameworks e Engines de gamedev. Unity e Kaplay.js são as engines que estou aprendendo no momento.
 
-- ⚙️ Estou trabalhando em: 
+- ⚙️ Estou trabalhando em: 🐻
 - 💡 Estudando SQL e databases
 - ❤️ Pronomes: Ele/Ela
 - 🌍 Idiomas que falo: Inglês e Português
