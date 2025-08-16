@@ -1,9 +1,9 @@
 <img src="assets/banner.png" style="border-radius:10px;">
 
-## Heyo! Sou KiwiSky
+## Yoii! Sou KiwiSky
 
 Sou estudante de Desenvolvimento de jogos, tenho 20 anos, moro no Brasil.
-Faço jogos a 8 anos, usei a Clickteam Fusion grande parte da minha carreira e em 2022 migrei para Lua e LÖVE
+Faço jogos a 9 anos, usei a Clickteam Fusion grande parte da minha carreira e em 2022 migrei para Lua e LÖVE
 e por diversão comecei a estudar Haxe e Haxeflixel. *pra modificar o fnf*
 Atualmente estou aprendendo novos frameworks e Engines de gamedev. Unity e Kaplay.js são as engines que estou aprendendo no momento.
 
@@ -23,8 +23,7 @@ Atualmente estou aprendendo novos frameworks e Engines de gamedev. Unity e Kapla
 <a href="https://gamejolt.com/@ItzKiwiSky"><img src="https://s.gjcdn.net/assets/e88e2b55.png" style="width:30%;"></a><br>
 <br>
 <a href="https://kiwisugar.itch.io/"><img src="assets/itchiologo.png" style="width:20%;"></a>
-<br><br>
-<img src="assets/discord.png" style="width:70%;">
+<br>
 
 ## Tecnologias que eu uso :3
 <br>
