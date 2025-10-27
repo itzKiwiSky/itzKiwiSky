@@ -1,6 +1,6 @@
 <img src="assets/banner.png" style="border-radius:10px;">
 
-## Yoii! Sou KiwiSky
+## Yoii! Sou Nimbus
 
 Sou estudante de Desenvolvimento de jogos, tenho 20 anos, moro no Brasil.
 Faço jogos a 9 anos, usei a Clickteam Fusion grande parte da minha carreira e em 2022 migrei para Lua e LÖVE
