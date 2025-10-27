@@ -1,4 +1,4 @@
-<img src="assets/banner.png" style="border-radius:10px;">
+![](assets/nimbs.png)
 
 ## Yoii! Sou Nimbus
 
