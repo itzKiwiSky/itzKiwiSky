@@ -1,6 +1,7 @@
 ## Yoii! Sou CloudyNimbus
 
-Sou estudante de Desenvolvimento de jogos, tenho 21 anos, moro no Brasil.
+tenho 21 anos, moro no Brasil.
+Estava estudando Jogos Digitais, agora inicio em Analise e desenvolvimento de sistemas.
 Faço jogos a 10 anos, usei a Clickteam Fusion grande parte da minha carreira e em 2022 migrei para Lua e LÖVE
 e por diversão comecei a estudar Haxe e Haxeflixel. *pra modificar o fnf*
 Atualmente estou aprendendo novos frameworks e Engines de gamedev. Unity e Kaplay.js são as engines que estou aprendendo no momento.
