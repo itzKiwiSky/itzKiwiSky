@@ -2,9 +2,9 @@
 
 tenho 21 anos, moro no Brasil.
 Estava estudando Jogos Digitais, agora inicio em Analise e desenvolvimento de sistemas.
-Faço jogos a 10 anos, usei a Clickteam Fusion grande parte da minha carreira e em 2022 migrei para Lua e LÖVE
-e por diversão comecei a estudar Haxe e Haxeflixel. *pra modificar o fnf*
-Atualmente estou aprendendo novos frameworks e Engines de gamedev. Unity e Kaplay.js são as engines que estou aprendendo no momento.
+Comecei com 12 anoss tentando construir uma fangame de Five Night's At Freddy's usando a Clickteam Fusion 2.5
+Hoje em dia me especializo em Love2D.
+Estou estudando não somente temas relacionado a desenvolvimento de jogos, mas tambem sistemas operacionais, linguagens de programação e qualquer coisa que eu me interessar no momento.
 
 ```lua
 function main()
@@ -14,6 +14,7 @@ function main()
   local discordUser = "cloudy.nimbus_"
   local pronouns = { Pronoun.He, Pronoun.She },
   local speakLanguages = { Language.English, Language.BrazillianPortuguese }
+  local isAutist = true -- lol
   local stack = {
     "VSCode",
     "Aseprite",
@@ -31,14 +32,12 @@ function main()
     "[Python] - Pygame",
   }
 
-  print(string.format("%s\n))
+  return 0
 end
-
-main()
 ```
 ---
 
-![CloudyNimbus's GitHub stats](https://github-readme-stats.vercel.app/api?username=itzKiwiSky&show_icons=true&theme=tokyonight)
+![CloudyNimbus's GitHub stats](./profile/stats.svg)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzKiwiSky&theme=tokyonight)
 
