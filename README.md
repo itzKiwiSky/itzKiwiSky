@@ -39,7 +39,7 @@ end
 
 ![CloudyNimbus's GitHub stats](./profile/stats.svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzKiwiSky&theme=tokyonight)
+![Top Langs](./profile/top-langs.svg)
 
 ## Redes sociais
 
