@@ -2,8 +2,8 @@
 
 tenho 21 anos, moro no Brasil.
 Estava estudando Jogos Digitais, agora inicio em Analise e desenvolvimento de sistemas.
-Comecei com 12 anoss tentando construir uma fangame de Five Night's At Freddy's usando a Clickteam Fusion 2.5
-Hoje em dia me especializo em Love2D.
+Comecei com 12 anos tentando construir uma fangame de Five Night's At Freddy's usando a Clickteam Fusion 2.5
+Hoje em dia me especializo em Love2D e outros frameworks e game engines.
 Estou estudando não somente temas relacionado a desenvolvimento de jogos, mas tambem sistemas operacionais, linguagens de programação e qualquer coisa que eu me interessar no momento.
 
 ```lua
