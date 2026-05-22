@@ -37,6 +37,10 @@ jobs:
           git config user.email "github-actions@users.noreply.github.com"
 
           git add profile/*.svg
-          git commit -m "Update README cards" || exit 0
 
+          git diff --cached --quiet && exit 0
+
+          git pull --rebase origin main
+
+          git commit -m "Update README cards"
           git push origin HEAD:main
