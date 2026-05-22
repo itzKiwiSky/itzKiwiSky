@@ -40,7 +40,7 @@ jobs:
 
           git diff --cached --quiet && exit 0
 
-          git pull --rebase origin main
-
           git commit -m "Update README cards"
+
+          git pull --rebase origin main
           git push origin HEAD:main
