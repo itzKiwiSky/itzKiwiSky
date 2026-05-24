@@ -11,7 +11,7 @@ function main()
   local username = "CloudyNimbus"
   local isGameDev = true
   local nationality = Nations.Brazil
-  local discordUser = "cloudy.nimbus_"
+  local discordUser = "eclipsenimbus_"
   local pronouns = { Pronoun.He, Pronoun.She },
   local speakLanguages = { Language.English, Language.BrazillianPortuguese }
   local isAutist = true -- lol
@@ -35,6 +35,7 @@ function main()
   return 0
 end
 ```
+
 ---
 
 ![CloudyNimbus's GitHub stats](./profile/stats.svg)
@@ -47,5 +48,3 @@ end
 <br>
 <a href="https://kiwisugar.itch.io/"><img src="assets/itchiologo.png" style="width:20%;"></a>
 <br>
-
-
