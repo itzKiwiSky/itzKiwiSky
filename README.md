@@ -44,7 +44,7 @@ end
 
 ## Redes sociais
 
-<a href="https://gamejolt.com/@ItzKiwiSky"><img src="assets/GameJolt_logo.png" style="width:30%"></a><br>
+<a href="https://gamejolt.com/@itzNimbusEclipse"><img src="assets/GameJolt_logo.png" style="width:30%"></a><br>
 <br>
 <a href="https://kiwisugar.itch.io/"><img src="assets/itchiologo.png" style="width:20%;"></a>
 <br>
