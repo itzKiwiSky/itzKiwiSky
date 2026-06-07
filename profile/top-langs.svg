@@ -125,8 +125,8 @@
       <g class="stagger" style="animation-delay: 100ms">
         <path
           data-testid="lang-pie"
-          size="77.98034258530821"
-          d="M 150 100 L 240 100 A 90 90 0 1 1 166.7551143662525 11.573385552912868 Z"
+          size="77.95357135345195"
+          d="M 150 100 L 240 100 A 90 90 0 1 1 166.60634955321484 11.54532711882068 Z"
           fill="#000080"
         />
       </g>
@@ -134,8 +134,8 @@
       <g class="stagger" style="animation-delay: 200ms">
         <path
           data-testid="lang-pie"
-          size="17.479190249430086"
-          d="M 150 100 L 166.7551143662525 11.573385552912868 A 90 90 0 0 1 236.3623090802464 74.6711316808668 Z"
+          size="17.473189513355926"
+          d="M 150 100 L 166.60634955321484 11.54532711882068 A 90 90 0 0 1 236.30997076220368 74.49335484569663 Z"
           fill="#178600"
         />
       </g>
@@ -143,8 +143,8 @@
       <g class="stagger" style="animation-delay: 300ms">
         <path
           data-testid="lang-pie"
-          size="1.9280914039019146"
-          d="M 150 100 L 236.3623090802464 74.6711316808668 A 90 90 0 0 1 238.79032625034654 85.29360804422018 Z"
+          size="1.9274294757761503"
+          d="M 150 100 L 236.30997076220368 74.49335484569663 A 90 90 0 0 1 238.75923643913848 85.10711758116935 Z"
           fill="#555555"
         />
       </g>
@@ -152,8 +152,8 @@
       <g class="stagger" style="animation-delay: 400ms">
         <path
           data-testid="lang-pie"
-          size="1.0700221875564622"
-          d="M 150 100 L 238.79032625034654 85.29360804422018 A 90 90 0 0 1 239.5777202768729 91.29184118206872 Z"
+          size="1.0696548409775075"
+          d="M 150 100 L 238.75923643913848 85.10711758116935 A 90 90 0 0 1 239.55902392888117 91.10161627563227 Z"
           fill="#222c37"
         />
       </g>
@@ -161,18 +161,18 @@
       <g class="stagger" style="animation-delay: 500ms">
         <path
           data-testid="lang-pie"
-          size="0.7882285046540152"
-          d="M 150 100 L 239.5777202768729 91.29184118206872 A 90 90 0 0 1 239.89898688814915 95.73711875788368 Z"
-          fill="#3178c6"
+          size="0.7881969164952654"
+          d="M 150 100 L 239.55902392888117 91.10161627563227 A 90 90 0 0 1 239.88972182570694 95.54602311444854 Z"
+          fill="#df7900"
         />
       </g>
     
       <g class="stagger" style="animation-delay: 600ms">
         <path
           data-testid="lang-pie"
-          size="0.7541250691493182"
-          d="M 150 100 L 239.89898688814915 95.73711875788368 A 90 90 0 0 1 240 99.99999999999997 Z"
-          fill="#df7900"
+          size="0.7879578999432096"
+          d="M 150 100 L 239.88972182570694 95.54602311444854 A 90 90 0 0 1 240 99.99999999999997 Z"
+          fill="#3178c6"
         />
       </g>
     
@@ -184,14 +184,14 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#000080" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Lua 77.98%
+        Lua 77.95%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#178600" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C# 17.48%
+        C# 17.47%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
@@ -210,16 +210,16 @@
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#3178c6" />
+      <circle cx="5" cy="6" r="5" fill="#df7900" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript 0.79%
+        Haxe 0.79%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#df7900" />
+      <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Haxe 0.75%
+        TypeScript 0.79%
       </text>
     </g>
   </g></g>
