@@ -6,34 +6,39 @@ Comecei com 12 anos tentando construir uma fangame de Five Night's At Freddy's u
 Hoje em dia me especializo em Love2D e outros frameworks e game engines.
 Estou estudando não somente temas relacionado a desenvolvimento de jogos, mas tambem sistemas operacionais, linguagens de programação e qualquer coisa que eu me interessar no momento.
 
-```lua
-function main()
-  local username = "CloudyNimbus"
-  local isGameDev = true
-  local nationality = Nations.Brazil
-  local discordUser = "eclipsenimbus_"
-  local pronouns = { Pronoun.He, Pronoun.She },
-  local speakLanguages = { Language.English, Language.BrazillianPortuguese }
-  local isAutist = true -- lol
-  local stack = {
-    "VSCode",
-    "Aseprite",
-    "Audacity",
-    "LMMS",
-    "Love2D",
-    "Lover - Builder"
-  }
-  local languagesKnownledge = {
-    "[C#] - Unity",
-    "[C] - Raylib",
-    "[Haxe] - RaylibHX, HaxeFlixel",
-    "[Lua] - Love2D, Roblox",
-    "[Typescript] - Kaplay",
-    "[Python] - Pygame",
-  }
+```haxe
+public class CloudyNimbus extends Developer
+{
+  public function new()
+  {
+    super();
+    this.username: String = "CloudyNimbus";
+    this.isGameDev: Bool = true;
+    this.nationality: UserNationalities = Nations.Brazil;
+    this.discordUser: String = "eclipsenimbus_";
+    this.pronouns: UserPronuns = { UserPronuns.He, UserPronuns.She };
+    this.speakLanguages: UserLanguages = { UserLanguages.English, UserLanguages.BrazillianPortuguese };
+    this.isAutist: Bool = true; // XDD
 
-  return 0
-end
+    this.tools: Array<String> = [
+      "VSCode",
+      "Aseprite",
+      "Audacity",
+      "LMMS",
+      "Love2D",
+      "Lover - Builder"
+    ];
+
+    this.languagesKnownledge: Array<String> = [
+      "[C#] - Unity, RaylibCS",
+      "[C] - Raylib",
+      "[Haxe] - RaylibHX, HaxeFlixel",
+      "[Lua] - Love2D, Roblox",
+      "[Typescript] - Kaplay",
+      "[Python] - Pygame",
+    ]
+  }
+}
 ```
 
 ---
