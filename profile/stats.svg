@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">CloudyNimbus' GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 151, Total Commits  (last year) : 314, Total PRs: 15, Total Issues: 3, Contributed to (last year): 7</desc>
+        <desc id="descId">Total Stars Earned: 152, Total Commits  (last year) : 314, Total PRs: 15, Total Issues: 3, Contributed to (last year): 7</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 132.03734275303964;
+        stroke-dashoffset: 131.90681940476236;
       }
     }
   
@@ -162,7 +162,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >151</text>
+      >152</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
