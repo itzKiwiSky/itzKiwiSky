@@ -1,10 +1,11 @@
 ## Yoii! Sou CloudyNimbus
 
-tenho 21 anos, moro no Brasil.
-Estava estudando Jogos Digitais, agora inicio em Analise e desenvolvimento de sistemas.
-Comecei com 12 anos tentando construir uma fangame de Five Night's At Freddy's usando a Clickteam Fusion 2.5
-Hoje em dia me especializo em Love2D e outros frameworks e game engines.
-Estou estudando não somente temas relacionado a desenvolvimento de jogos, mas tambem sistemas operacionais, linguagens de programação e qualquer coisa que eu me interessar no momento.
+Tenho 21 anos, moro no Brasil.
+Sou dev de jogos independente e amante de tecnologia.
+Atuo no desenvolvimento de jogos do zero, com 10 anos de experiencia em programação de jogos, iniciei minha carreira com 12 anos tentando construir uma fangame de Five Night's At Freddy's usando a Clickteam Fusion 2.5
+Hoje em dia me especializo em Love2D e outros frameworks e game engines, alem de desenvolver ferramentas e soluções para outros desenvolvedores, ferramentas internas e utilitários open source.
+
+Gosto de muito da area em que atuo, mas não me limito somente a ela, quando tenho interesse em algum assunto eu vou fundo nele, recentemente venho estudando sobre sistemas operacionais e linguagens de programação
 
 ```haxe
 public class CloudyNimbus extends Developer
