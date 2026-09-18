@@ -1,4 +1,4 @@
-## Yoii! Sou CloudyNimbus
+## Yoii! Sou ChocolateLoxtl
 
 Tenho 21 anos, moro no Brasil.
 Sou dev de jogos independente e amante de tecnologia.
@@ -8,12 +8,12 @@ Hoje em dia me especializo em Love2D e outros frameworks e game engines, alem de
 Gosto de muito da area em que atuo, mas não me limito somente a ela, quando tenho interesse em algum assunto eu vou fundo nele, recentemente venho estudando sobre sistemas operacionais e linguagens de programação
 
 ```haxe
-public class CloudyNimbus extends Developer
+public class ChocolateLoxtl extends Developer
 {
   public function new()
   {
     super();
-    this.username: String = "CloudyNimbus";
+    this.username: String = "ChocolateLoxtl";
     this.isGameDev: Bool = true;
     this.nationality: UserNationalities = Nations.Brazil;
     this.discordUser: String = "eclipsenimbus_";
